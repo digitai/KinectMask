@@ -1,0 +1,1 @@
+Openframeworks application that turns the depth image of the kinect to a mask (masking a simple particle system in this case)
