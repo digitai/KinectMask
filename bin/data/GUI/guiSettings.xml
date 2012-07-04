@@ -1,0 +1,35 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>Background Color</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Set Particle Color</Name>
+    <Value>32.4671</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Particle 1 Shape</Name>
+    <Value>3.78947</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Set Particle 2 Color</Name>
+    <Value>162.336</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Particle 2 Shape</Name>
+    <Value>1.83553</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>threshHold Near</Name>
+    <Value>1828.95</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Threshhold Far</Name>
+    <Value>881.579</Value>
+</Widget>
